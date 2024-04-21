@@ -1,4 +1,4 @@
-6173
+6176
 111C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb133557230399336351 1
 97C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\caniuse-lite\data\features\ping.js133557230402947151 0
 141C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\StyleSheet.js133557230398826232 0
@@ -62,7 +62,7 @@
 103C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\node-gyp-build-optional-packages\LICENSE133557230391524594 0
 105C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\css-select\node_modules\domhandler\lib\esm133557230394585277 1
 115C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133557230398396134 0
-54C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist133581513871219142 1
+54C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist133581547828731433 1
 88C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\ordered-binary\index.d.ts133557230394445246 0
 93C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\swiper\swiper-effect-utils.mjs133557230400506606 0
 104C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\css-tree\lib\syntax\node\ClassSelector.js133557230399256330 0
@@ -95,7 +95,7 @@
 78C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\braces\index.js133557230392224748 0
 76C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\color-convert133557230393335002 1
 101C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\swiper\modules\effect-fade.min.mjs.map133557230399216325 0
-60C:\Users\TJ\Desktop\React_김로미\github\nodejs\index.html133581468720163628 0
+60C:\Users\TJ\Desktop\React_김로미\github\nodejs\index.html133581532483897022 0
 67C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\svgo133557230396255664 1
 106C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\csso\node_modules\css-tree\lib\utils\url.js133557230400386576 0
 96C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\semver\functions\compare-build.js133557230393415018 0
@@ -6112,6 +6112,7 @@
 93C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\@lmdb\lmdb-win32-x64\README.md133557230392154734 0
 77C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\@lezer\lr\dist133557230394035156 1
 80C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\@lezer\lr\LICENSE133557230391634617 0
+72C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist\index.79e0fb77.js133581547828691419 0
 85C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\@lezer\lr\package.json133557230393635067 0
 90C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\@lezer\lr\dist\constants.js133557230393014932 0
 87C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\@lezer\lr\dist\index.cjs133557230392334775 0
@@ -6170,5 +6171,7 @@
 94C:\Users\TJ\Desktop\React_김로미\github\nodejs\node_modules\.bin\update-browserslist-db.ps1133557230404857584 0
 72C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist\index.c4775257.js133581430454287480 0
 73C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist\nodejs.3464ddca.js133581471185909409 0
-65C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist\index.html133581471186089446 0
 72C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist\index.2bf495b6.js133581513871189141 0
+62C:\Users\TJ\Desktop\React_김로미\github\nodejs\비동기.js133581547828438277 0
+65C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist\index.html133581532484613575 0
+76C:\Users\TJ\Desktop\React_김로미\github\nodejs\dist\index.79e0fb77.js.map133581547828721420 0
